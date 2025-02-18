@@ -28,7 +28,7 @@ A Flutter-based mobile application designed to provide mental health support and
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Raghu1700/breathein.git
 ```
 
 2. Install dependencies:
